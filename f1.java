@@ -6,7 +6,7 @@ class hello {
     // Prints "Hello, World" to the terminal window.
     public static void main(String[] args)
     {
-        System.out.println("Hello, World lovely people");
-        System.out.println("I love you Vidya Ajay");
+        System.out.println("Hello lovely people");
+        System.out.println("I love you Vidya Ajay Aarna");
     }
 }
