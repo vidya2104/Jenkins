@@ -1,7 +1,7 @@
 // This is a simple Java program.
 // FileName : "f1.java".
 
-class hello {
+class f1 {
 
     public static void main(String[] args)
     {
